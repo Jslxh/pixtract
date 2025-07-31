@@ -78,7 +78,7 @@ def preprocess_image(image, enhance_contrast=False, resize_factor=1.0):
 
 # Main app
 def main():
-    st.title("📝 Image to Text Converter")
+    st.title("📝 Pixtract - Img 2 Txt Converter")
     st.markdown("Upload an image and get the text instantly")
     t_model="EasyOCR"
     # Sidebar for options
