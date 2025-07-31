@@ -20,7 +20,7 @@ TESSERACT_MAINTENANCE = False
 
 # Configure page
 st.set_page_config(
-    page_title="Image to Text Converter",
+    page_title="Pixtract - Img 2 Txt Converter",
     page_icon="📝",
     layout="wide"
 )
