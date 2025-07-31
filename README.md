@@ -21,6 +21,7 @@ Pixtract is a lightweight, powerful OCR (Optical Character Recognition) tool bui
 **Install the required packages**
 
 ```bash
+
 pip install -r requirements.txt
 
 streamlit run app.py
